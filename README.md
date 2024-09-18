@@ -5,8 +5,8 @@
 <br>
 
 * 📧 You can contact me at [kurtdebelen431@gmail.com](mailto:kurtdebelen431@gmail.com)
-* 🏙️  I'm based in San Mateo, Rizal
 * 📚  Currently learning Javascript
+* 🏙️  I'm based in San Mateo, Rizal
 
 ### Tech Stack
 
