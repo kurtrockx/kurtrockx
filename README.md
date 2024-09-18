@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Kurt Russell B. De Belen </h1> 
+<h1 align="center">👋 Hey, I'm Kurt Russell B. De Belen </h1> 
 
 <p align="center">Coding 'til midnight babyyy</p>
 
