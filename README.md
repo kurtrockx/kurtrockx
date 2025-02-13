@@ -5,7 +5,7 @@
 <br>
 
 * 📧 You can contact me at [kurtdebelen431@gmail.com](mailto:kurtdebelen431@gmail.com)
-* 💻  Currently learning Javascript
+* 💻  Currently learning Reactjs
 * 🏙️  I'm based in San Mateo, Rizal
 
 ### Tech Stack
