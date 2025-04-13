@@ -1,4 +1,4 @@
-<img src="assets/banner.gif" alt="Banner" style="width: 100%; height: auto;">
+<img src="assets/banner2.gif" alt="Banner" style="width: 100%; height: auto;">
 <p align="center">Coding 'til midnight babyyy</p>
 
 
