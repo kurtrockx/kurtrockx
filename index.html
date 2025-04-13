@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      html {
+        background: greenyellow;
+      }
+      .name {
+        margin: 20rem auto;
+        padding: 2.75rem 2rem;
+        width: max-content;
+        background: #2a2d33;
+        color: white;
+        font-family: "Century Gothic";
+        font-size: 7rem;
+        font-weight: 600;
+        text-shadow: 0 0.75rem 0px black;
+        border-radius: 50px;
+        box-shadow: inset 0px -20px 20px black;
+        overflow: hidden;
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+      }
+      .parent {
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+      }
+      .namee {
+        display: block;
+        overflow: hidden;
+      }
+      .namee::before {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 5%;
+        background: #69dcfa;
+        animation: slide-in 1.5s 1s infinite ease-in-out;
+        box-shadow: -20px 0px 0px hsla(192, 94%, 70%, 0.8),
+          -40px 0px 0px hsla(192, 94%, 70%, 0.6),
+          -60px 0px 0px hsla(192, 94%, 70%, 0.4);
+      }
+
+      @keyframes slide-in {
+        from {
+          translate: -200%;
+        }
+        to {
+          translate: 140%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent">
+      <div class="name">
+        👋Hey, I'm
+        <span class="namee" style="position: relative">Kurt!</span>
+      </div>
+
+      <img
+        src="https://camo.githubusercontent.com/1293a5f3fed176eb018505b64108143d75574f02a57cbbf5bc4651d026564383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"
+        alt=""
+      />
+    </div>
+  </body>
+</html>
