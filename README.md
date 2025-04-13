@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hey, I'm Kurt Russell B. De Belen </h1> 
-
+<img src="assets/banner4.png" alt="Banner" style="width: 100%; height: auto;">
 <p align="center">Coding 'til midnight babyyy</p>
+
 
 <br>
 
