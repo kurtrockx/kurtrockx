@@ -1,15 +1,13 @@
 <img src="assets/banner2.gif" alt="Banner" style="width: 100%; height: auto;">
-<p align="right">Coding 'til midnight babyyy😎</p>
 
 
+## About Me
+- 📧 You can contact me at [kurtdebelen431@gmail.com](mailto:kurtdebelen431@gmail.com)
+- 💻  Currently learning Reactjs
+- 🏙️  I'm based in San Mateo, Rizal
 
-
-<br>
-
-* 📧 You can contact me at [kurtdebelen431@gmail.com](mailto:kurtdebelen431@gmail.com)
-* 💻  Currently learning Reactjs
-* 🏙️  I'm based in San Mateo, Rizal
----
+<br/>
+<p align="center"><em>Coding 'til midnight babyyy😎</em></p>
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
